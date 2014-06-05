@@ -1,0 +1,14 @@
+# spf13 install note on window 7
+
+1. install vim
+1. install git
+1. clone spf13-vim
+1. set vim path
+1. spf13-vim-windows-install.cmd
+1. _vimrc
+    zh-cn
+    set encoding=utf-8
+    set fileencoding=utf-8
+    //fix console zh_cn bug
+    language messages zh_CN.utf-8
+1. install ctags
